@@ -8,6 +8,9 @@ More information on RudderStack can be found [here](https://github.com/rudderlab
 
 This repository contains some sample applications demonstrating various use cases of RudderStack and othe destinations.
 
+## Table of Content
+- Send events to AppsFlyer via cloud-mode from Android application
+
 ## Contact us
 
 If you come across any issues while configuring or using this repo, please feel free to start a conversation on our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) channel. We will be happy to help you.

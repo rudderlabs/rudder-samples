@@ -6,7 +6,7 @@ More information on RudderStack can be found [here](https://github.com/rudderlab
 
 ## About this repository
 
-This repository contains some sample applications demonstrating various use cases of RudderStack and othe destinations.
+This repository contains some sample applications demonstrating various use cases of RudderStack and other destinations.
 
 ## Table of Content
 - [Send events to AppsFlyer via cloud-mode from Android application](https://github.com/rudderlabs/rudder-samples/tree/master/android/appsflyer/appsflyer-cloud-mode-sample)

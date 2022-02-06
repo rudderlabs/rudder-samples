@@ -45,7 +45,7 @@ export default {
                     };
                   }(method);
         }
-        rudderanalytics.load("1weq4moNrmHoHGnskNDUnmEbC4L", "http://localhost:8080/");
+        rudderanalytics.load("WRITE_KEY", "DATA_PLANE_URL");
         rudderanalytics.ready(()=>{
           console.log("We are all set");
         });

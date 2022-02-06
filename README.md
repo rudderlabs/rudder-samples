@@ -19,13 +19,13 @@
 ---
 
 
-# Sample RudderStack Applications
+# Sample RudderStack applications
 
 This repository contains some sample applications demonstrating various RudderStack integrations and use-cases
 
-## Table of Contents
+## Table of contents
 
-- [Send events to AppsFlyer via cloud-mode from Android application](https://github.com/rudderlabs/rudder-samples/tree/master/android/appsflyer/appsflyer-cloud-mode-sample)
+- [Send events from your Android application to AppsFlyer via cloud mode](https://github.com/rudderlabs/rudder-samples/tree/master/android/appsflyer/appsflyer-cloud-mode-sample)
 
 ## What is RudderStack?
 
@@ -33,8 +33,14 @@ This repository contains some sample applications demonstrating various RudderSt
 
 Find more information on RudderStack [here](https://github.com/rudderlabs/rudder-server).
 
-> Start building a better, warehouse-first CDP that delivers complete, unified data to every part of your customer data stack. [**Sign up**](https://app.rudderstack.com/signup?type=freetrial) for [**RudderStack**](https://app.rudderstack.com/signup?type=freetrial) today.
-----
+> Start building a better, warehouse-first CDP that delivers complete, unified data to every part of your customer data stack. [**Sign up**](https://app.rudderstack.com/signup?type=freetrial) for [RudderStack](https://app.rudderstack.com/signup?type=freetrial) today.
+
+## Useful links
+
+- [Setting up a connection in RudderStack](https://www.rudderstack.com/docs/connections/adding-source-and-destination-rudderstack/)
+- [RudderStack SDKs](https://www.rudderstack.com/docs/stream-sources/rudderstack-sdk-integration-guides/)
+- [Supported destinations](https://www.rudderstack.com/docs/destinations/)
+- [Cloud mode and device mode in RudderStack](https://www.rudderstack.com/docs/connections/rudderstack-connection-modes/)
 
 ## Contact us
 

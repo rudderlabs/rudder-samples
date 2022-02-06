@@ -26,6 +26,15 @@ This repository contains some sample applications demonstrating various RudderSt
 ## Table of contents
 
 - [Send events from your Android application to AppsFlyer via cloud mode](https://github.com/rudderlabs/rudder-samples/tree/master/android/appsflyer/appsflyer-cloud-mode-sample)
+- [Integrate RudderStack with your Angular app](https://github.com/rudderlabs/rudder-samples/tree/master/javascript/sample-angular-app)
+- [Integrate RudderStack with your Hugo site](https://github.com/rudderlabs/rudder-samples/tree/master/javascript/sample-hugo-site)
+- [Integrate RudderStack with your Jekyll site](https://github.com/rudderlabs/rudder-samples/tree/master/javascript/sample-jekyll-site)
+- [Integrate RudderStack with your Next.js app](https://github.com/rudderlabs/rudder-samples/tree/master/javascript/sample-next-app)
+- [Integrate RudderStack with your Nuxt.js app](https://github.com/rudderlabs/rudder-samples/tree/master/javascript/sample-nuxt-app)
+- [Integrate RudderStack with your Eleventy site](https://github.com/rudderlabs/rudder-samples/tree/master/javascript/sample-eleventy-site)
+- [Integrate RudderStack with your Ember.js app](https://github.com/rudderlabs/rudder-samples/tree/master/javascript/sample-emberjs-app)
+- [Integrate RudderStack with your Svelte app](https://github.com/rudderlabs/rudder-samples/tree/master/javascript/sample-svelte-app)
+- [Integrate RudderStack with your Astro site](https://github.com/rudderlabs/rudder-samples/tree/master/javascript/sample-astro-site)
 
 ## What is RudderStack?
 

@@ -34,7 +34,7 @@ This section contains sample apps demonstrating RudderStack integration with the
 - Next.js
 - Nuxt.js
 
-Refer to the [RudderStack documentation]() for step-by-step instructions on setting up these integrations.
+Refer to the [RudderStack documentation](https://rudderstack.com/docs/user-guides/migration-guides/rudderstack-jamstack-integration/) for step-by-step instructions on setting up these integrations.
 
 | **IMPORTANT**: When using these sample apps, remember to replace `WRITE_KEY` and `DATA_PLANE_URL` in the files with your JavaScript source write key and your RudderStack data plane URL. Refer to the integration's documentation for more details.  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

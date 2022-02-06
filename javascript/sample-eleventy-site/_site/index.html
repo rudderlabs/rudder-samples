@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Eleventy Demo</title>
+  <script>
+
+  rudderanalytics=window.rudderanalytics=[];for(var methods=["load","page","track","identify","alias","group","ready","reset","getAnonymousId","setAnonymousId"],i=0;i<methods.length;i++){var method=methods[i];rudderanalytics[method]=function(a){return function(){rudderanalytics.push([a].concat(Array.prototype.slice.call(arguments)))}}(method)}rudderanalytics.load("WRITE_KEY","DATA_PLANE_URL"),
+  rudderanalytics.page();
+  rudderanalytics.track(
+  "Test Event in 11ty",
+  {
+    revenue:  30,
+    currency:  'INR' ,
+    user_actual_id:  12345
+  }, 
+  () => {console.log("Track call");}
+  );
+  </script>
+  <script src="https://cdn.rudderlabs.com/rudder-analytics.min.js"></script>
+</head>
+<body>
+  <p>Demo</p>
+</body>
+</html>

@@ -19,28 +19,25 @@
 ---
 
 
-# Sample RudderStack applications
+# Sample RudderStack Integrations with JAMstack Apps
 
-This repository contains some sample applications demonstrating various RudderStack integrations and use-cases
+This section contains sample apps demonstrating RudderStack integration with the following JAMstack frameworks:
 
-## Table of contents
+- Angular
+- Gatsby
+- Vue
+- Ember.js
+- Astro
+- Svelte
+- Hugo
+- Jekyll
+- Next.js
+- Nuxt.js
 
-- [Send events from your Android application to AppsFlyer via cloud mode](https://github.com/rudderlabs/rudder-samples/tree/master/android/appsflyer/appsflyer-cloud-mode-sample)
+Refer to the [RudderStack documentation]() for step-by-step instructions on setting up these integrations.
 
-## What is RudderStack?
-
-[RudderStack](https://rudderstack.com/) is a customer data platform for developers.  Our tooling makes it easy to deploy pipelines that collect customer data from every app, website and SaaS platform, then activate it in your warehouse and business tools.
-
-Find more information on RudderStack [here](https://github.com/rudderlabs/rudder-server).
-
-> Start building a better, warehouse-first CDP that delivers complete, unified data to every part of your customer data stack. [**Sign up**](https://app.rudderstack.com/signup?type=freetrial) for [RudderStack](https://app.rudderstack.com/signup?type=freetrial) today.
-
-## Useful links
-
-- [Setting up a connection in RudderStack](https://www.rudderstack.com/docs/connections/adding-source-and-destination-rudderstack/)
-- [RudderStack SDKs](https://www.rudderstack.com/docs/stream-sources/rudderstack-sdk-integration-guides/)
-- [Supported destinations](https://www.rudderstack.com/docs/destinations/)
-- [Cloud mode and device mode in RudderStack](https://www.rudderstack.com/docs/connections/rudderstack-connection-modes/)
+| **IMPORTANT**: When using these sample apps, remember to replace `WRITE_KEY` and `DATA_PLANE_URL` in the files with your JavaScript source write key and your RudderStack data plane URL. Refer to the integration's documentation for more details.  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Contact us
 

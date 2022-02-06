@@ -1,20 +1,41 @@
-# What is RudderStack?
+<p align="center">
+  <a href="https://rudderstack.com/">
+    <img src="https://user-images.githubusercontent.com/59817155/121357083-1c571300-c94f-11eb-8cc7-ce6df13855c9.png">
+  </a>
+</p>
 
-[RudderStack](https://rudderstack.com/) is a customer data platform for developers.  Our tooling makes it easy to deploy pipelines that collect customer data from every app, website and SaaS platform, then activate it in your warehouse and business tools.
+<p align="center"><b>The Customer Data Platform for Developers</b></p>
 
-More information on RudderStack [here](https://github.com/rudderlabs/rudder-server).
+<p align="center">
+  <b>
+    <a href="https://rudderstack.com">Website</a>
+    ·
+    <a href="https://rudderstack.com/docs/">Documentation</a>
+    ·
+    <a href="https://rudderstack.com/join-rudderstack-slack-community">Community Slack</a>
+  </b>
+</p>
 
-> Start building a better, warehouse-first CDP that delivers complete, unified data to every part of your customer data stack. [**Sign up**](https://app.rudderlabs.com/signup?type=freetrial) for [**RudderStack Cloud Free**](https://app.rudderlabs.com/signup?type=freetrial) today.
-----
+---
 
-## About this repository
 
-This repository contains some sample applications demonstrating various use cases of RudderStack and other destinations.
+# Sample RudderStack Applications
+
+This repository contains some sample applications demonstrating various RudderStack integrations and use-cases
 
 ## Table of Contents
 
 - [Send events to AppsFlyer via cloud-mode from Android application](https://github.com/rudderlabs/rudder-samples/tree/master/android/appsflyer/appsflyer-cloud-mode-sample)
 
+## What is RudderStack?
+
+[RudderStack](https://rudderstack.com/) is a customer data platform for developers.  Our tooling makes it easy to deploy pipelines that collect customer data from every app, website and SaaS platform, then activate it in your warehouse and business tools.
+
+Find more information on RudderStack [here](https://github.com/rudderlabs/rudder-server).
+
+> Start building a better, warehouse-first CDP that delivers complete, unified data to every part of your customer data stack. [**Sign up**](https://app.rudderstack.com/signup?type=freetrial) for [**RudderStack**](https://app.rudderstack.com/signup?type=freetrial) today.
+----
+
 ## Contact us
 
-If you come across any issues while configuring or using this repo, please feel free to start a conversation on our [**Slack**](https://resources.rudderstack.com/join-rudderstack-slack) channel. We will be happy to help you.
+For any queries on using these sample applications, you can [contact us](mailto:support@rudderstack.com) or start a conversation in our [Slack](https://rudderstack.com/join-rudderstack-slack-community) community.

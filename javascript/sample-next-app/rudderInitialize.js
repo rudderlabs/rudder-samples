@@ -37,7 +37,7 @@ export async function rudderInitialize() {
       a.parentNode.insertBefore(r, a);
     }),
       e.loadJS(),
-      e.load('WRITE-KEY', 'DATAPLANE-URL'),
+      e.load('WRITE-KEY', 'DATAPLANE-URL'), // Replace 'WRITE-KEY' and 'DATAPLANE-URL'
       e.page();
   })();
 }
